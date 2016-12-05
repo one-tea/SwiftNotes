@@ -1,46 +1,6 @@
-##重要更新
 
-本课程的所有示例代码已经基于最新的 **Swift3** 版本进行了升级。更新后的示例代码请参见项目： [**Play with Swift 3**](https://github.com/liuyubobobo/Play-with-Swift-3)
-
-https://github.com/liuyubobobo/Play-with-Swift-3
-
-对swift感兴趣的同学，欢迎加我的个人微信：**liuyubobobo**（头像和github一致），一起加入swift微信群讨论：）请注明：**swift交流**
-
-**以下内容为原课程swift2代码，已停止更新。**
-
----
-
-##Play with Swift 2 - 玩儿转 Swift 2
-
-**Support the newest Xcode7.3 and Swift2.2! 现已支持Swift最新版本 Xcode7.3 Swift2.2!**
-
-Welcome! This repo is based on the MOOC course [<Play with Swift 2>](http://t.imooc.com/comment/635) on [**imooc.com**](http://www.imooc.com), one of the toppest MOOC website in China. As the teacher of this brand new **Swift** course, I put all the demos' codes here for everyone to test and comment. If you find any bug, or have any suggestion, even brilliant ideas which can make this course better, please contact me:)
-
-**Personal Website**: [liuyubobobo.com](http://liuyubobobo.com)
-
-**Email**: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
-
-**Weibo**: [刘宇波bobo http://weibo.com/liuyubobobo](http://weibo.com/liuyubobobo)
-
-**Zhihu**: [刘宇波 http://www.zhihu.com/people/liuyubobobo](http://www.zhihu.com/people/liuyubobobo)
-
----
-
-大家好， 欢迎大家下载《玩儿转Swift2》课程的源代码。这些代码包含我在慕课网上的课程——《玩儿转Swift2》上的所有源码。大家可以下载、运行、测试、修改。如果你发现了任何bug，或者对课程中的任何内容有意见或建议，欢迎和我联系：）
-
-**个人网站**：[liuyubobobo.com](http://liuyubobobo.com)
-
-**电子邮件**：[liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
-
-**微博**: [刘宇波bobo http://weibo.com/liuyubobobo](http://weibo.com/liuyubobobo)
-
-**知乎**: [刘宇波 http://www.zhihu.com/people/liuyubobobo](http://www.zhihu.com/people/liuyubobobo)
-
----
 
 ##Catalogue - 课程目录 
-
-中文版课程目录在英文版目录后，直接[点击这里](https://github.com/liuyubobobo/Play-with-Swift-2#第一季)查看中文目录
 
 ### **Season One**
 * **Chapter One - Introduction** [**CODE**](https://github.com/liuyubobobo/Play-with-Swift-2/tree/master/01-Introduction)
