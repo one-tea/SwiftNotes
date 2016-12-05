@@ -1,6 +1,6 @@
 
 
-##Catalogue - 课程目录 
+##Catalogue -  Swift笔记代码目录 
 
 ### **Season One**
 * **Chapter One - Introduction** [**CODE**](https://github.com/liuyubobobo/Play-with-Swift-2/tree/master/01-Introduction)
@@ -739,12 +739,4 @@
 
 ## Contributors and Acknowledgements 贡献者.致谢
 
-感谢每一名学习这个课程的同学。感谢每一名在慕课网留言的同学。批评也好，鼓励也罢，都是对我的肯定：）
 
-特别感谢以下github用户，帮助完善了这个课程的代码：
-
-* [leavie](https://github.com/leavie)
-
-最后，感谢这个时代。
-
----
