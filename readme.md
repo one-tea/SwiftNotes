@@ -1,6 +1,6 @@
 
 
-##Catalogue -  Swift笔记代码目录 
+##Catalogue -  Swift学习资料 
 
 ### **Season One**
 * **Chapter One - Introduction** [**CODE**](https://github.com/liuyubobobo/Play-with-Swift-2/tree/master/01-Introduction)
